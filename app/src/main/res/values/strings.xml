@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DeposerAnnonce</string>
+        <string-array name="categories">
+            <item>Catégorie 1</item>
+            <item>Catégorie 2</item>
+            <item>Catégorie 3</item>
+        </string-array>
+
+        <string-array name="sectors">
+            <item>technologie</item>
+            <item>industrie</item>
+            <item>agriculture</item>
+        </string-array>
+
+        <string-array name="cities">
+            <item>Agadir</item>
+            <item>Casablanca</item>
+            <item>Marrakech</item>
+            <item>Rabat</item>
+        </string-array>
+    </resources>
